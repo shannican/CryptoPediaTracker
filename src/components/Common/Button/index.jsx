@@ -9,7 +9,7 @@ const Button = ({ text, outlineButton }) => {
                 <RWebShare
                     data={{
                         text: "Crypto Tracker Website for Tracking Current Markets of Crypto Currencies.",
-                        url: "",
+                        url: "https://crypto-pedia-tracker.vercel.app/",
                         title: "CryptoTracker.",
                     }}
                 >
